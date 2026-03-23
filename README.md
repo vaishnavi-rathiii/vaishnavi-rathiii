@@ -36,12 +36,23 @@
 
 ### 🚀 Featured Projects
 
-* **C Programming Projects** — Programs using loops, arrays, pointers, functions, and file handling
-* **C++ OOP & DSA Projects** — Implementations using classes, inheritance, polymorphism, and core data structures
-* **Python Mini Projects** — Calculator, To-Do List, Password Generator, Contact Book, Number Guessing Game, Chatbot
-* **CLI-Based Applications** — Problem-solving focused command-line programs in C, C++, and Python
+#### Projects & Skills
 
-➡️ Explore my repositories to view source code and project details
+##### AIML Projects
+- **CreditWise** — Loan Approval ML Model (preprocessing, training, classification)
+- **SmartCart** — Customer Segmentation (clustering, behavior insights)
+
+##### C++ OOP & DSA
+- OOP: Classes, Inheritance, Polymorphism  
+- DSA: Arrays, Linked Lists, Stacks, Queues  
+
+##### Python Projects
+- Calculator, To-Do List, Password Generator, Contact Book, Chatbot  
+
+##### CLI Apps
+- Built using C, C++, Python  
+
+➡️ View repositories for code & details
 
 ---
 
