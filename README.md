@@ -1,81 +1,150 @@
-### 🌟 GitHub Profile
+<div align="center">
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5CFA&height=220&section=header&text=Vaishnavi%20Rathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20C%2B%2B%20Programmer&descAlignY=58&descSize=18" width="100%"/> -->
+
+<img src="assets/Me.jpeg" width="180" alt="Vaishnavi Rathi"/>
+
+<h1>Hi, I'm Vaishnavi Rathi 👋</h1>
+<h3>AIML Aspiring Engineer | Python Developer | C++ Programmer</h3>
+
+</div>
 
 ---
 
-#### 👩‍💻 Hi, I’m Vaishnavi Rathi, a second-year Diploma student in Artificial Intelligence and Machine Learning (AIML). I am passionate about problem-solving and enjoy building practical, real-world projects that strengthen my technical skills. I believe in learning through hands-on experience and continuously improving my knowledge through consistent practice.
+# 💫 About Me
+
+🎓 Third-Year Diploma Student in Artificial Intelligence & Machine Learning
+
+💙 Passionate about solving real-world problems using AI.
+
+🚀 I enjoy building practical software, Machine Learning applications, and full-stack projects.
+
+🌱 Currently learning:
+- Advanced Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- Java
+- Backend Development
+
+🎯 Career Goal: Become an AI/ML Engineer and contribute to impactful software solutions.
 
 ---
 
-🎓 **Second-year Diploma student in Artificial Intelligence & Machine Learning (AIML)**
-💡 Motivated learner with a strong interest in **problem-solving** and **real-world software development**
-🚀 Focused on building skills through **hands-on projects** and continuous learning
+# 🚀 Tech Stack
+
+### Programming Languages
+<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,r"/></p>
+
+### Web Development
+<p><img src="https://skillicons.dev/icons?i=html,css"/></p>
+
+### AI / ML
+<p><img src="https://skillicons.dev/icons?i=python,pytorch"/></p>
+
+- Machine Learning · Deep Learning · Neural Networks
+- Generative AI · Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Reinforcement Learning · Supervised & Unsupervised Learning
+- Libraries: Scikit-learn · PyTorch
+
+### Data Science
+<p><img src="https://skillicons.dev/icons?i=python"/></p>
+
+- NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
+
+### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/></p>
+
+- Power BI · Anaconda · Jupyter Lab
 
 ---
 
-### 🛠️ Skills & Technologies
+# 💼 Experience
 
-* **Programming Languages:** C, C++, Python, Java (Core)
-* **Web Technologies:** HTML5, CSS3
-* **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
-* **AI/ML:** Machine Learning Fundamentals, Data Handling
+**💻 C++ Developer Intern — CodeAlpha**
+✔ OOP Concepts ✔ Mini Projects ✔ Debugging ✔ Git & GitHub ✔ Letter of Recommendation
 
----
+**🐍 Python Programming Intern — CodSoft**
+✔ CLI Applications ✔ Dictionaries ✔ Functions ✔ Logic Building
 
-### 💼 Experience
-
-* **C++ Intern — CodeAlpha (Remote)**
-  Worked on OOP-based C++ tasks, mini-projects, debugging, and Git/GitHub version control. *Completed with LOR.*
-
-* **Python Programming Intern — Kodbud (Remote)**
-  Built Python mini-projects focusing on logic building and core programming fundamentals.
-
-* **Python Programming Intern — CodSoft (Remote)**
-  Developed CLI-based Python applications using lists, dictionaries, and functions.
+**🐍 Python Programming Intern — KodBud**
+✔ Python Fundamentals ✔ Problem Solving ✔ Mini Projects
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-#### Projects & Skills
-
-##### AIML Projects
-- **CreditWise** — Loan Approval ML Model (preprocessing, training, classification)
-- **SmartCart** — Customer Segmentation (clustering, behavior insights)
-
-##### C++ OOP & DSA
-- OOP: Classes, Inheritance, Polymorphism  
-- DSA: Arrays, Linked Lists, Stacks, Queues  
-
-##### Python Projects
-- Calculator, To-Do List, Password Generator, Contact Book, Chatbot  
-
-##### CLI Apps
-- Built using C, C++, Python  
-
-➡️ View repositories for code & details
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Personal Assistant | Built using Gemma LLM, Flask & Hugging Face API |
+| 🏦 CreditWise | Loan Approval Prediction using Machine Learning |
+| 🛒 SmartCart | Customer Segmentation using Clustering |
+| 🍽️ Golden Fork | Responsive Restaurant Website |
+| 🛍️ Amazon Clone | Responsive Frontend Clone |
+| 🎬 Netflix Clone | Responsive UI Clone |
 
 ---
 
-### 📈 Currently Learning
+# 📊 GitHub Statistics
 
-* **Advanced Data Structures in C++**
-* **Machine Learning Concepts**
-* **Advanced Java**
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Rathi-123&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Rathi-123&theme=tokyonight"/>
+</p>
+
+# 💻 Most Used Language & Libraries
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Rathi-123&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+<p align="center">
+NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PyTorch
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Rathi-123&theme=tokyo-night"/>
+</p>
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi-Rathi-123&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ---
 
-### 🎯 Career Objectives
+# 🌐 Connect With Me
 
-* To pursue a career as an **AI/ML Engineer**
-* To secure a **merit-based internship** focused on skill development and practical exposure
-* To contribute to **impactful and meaningful software solutions**
+<p>
+<a href="https://www.linkedin.com/in/vaishnavi-rathi-/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
 ---
 
-### 🌱 Learning Philosophy
+# 👀 Profile Views
 
-I strongly believe in **skill development, consistency, and project-based learning** over paid certifications
+<p>
+<img src="https://komarev.com/ghpvc/?username=Vaishnavi-Rathi-123&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
 
 ---
 
-⭐ Thank you for visiting my GitHub profile. Feel free to explore my work!
+# 💙 Quote
+
+> *"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7A5CFA&height=120&section=footer" width="100%"/>
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
