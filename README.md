@@ -85,8 +85,8 @@ NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
 ### 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Rathi-123&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Rathi-123&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-rathiii&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-rathiii&theme=tokyonight"/>
 </p>
 
 ### 💻 Most Used Language & Libraries
