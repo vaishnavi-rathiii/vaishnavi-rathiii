@@ -1,7 +1,11 @@
 <div align="center">
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vaishnavi+Rathi;&center=true&size=28">
+</p> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,100:FF1493&height=220&section=header&text=Vaishnavi%20Rathi&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<!-- <h1>Vaishnavi Rathi</h1> -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=AIML+Aspiring+Engineer">
 
-<h1>Vaishnavi Rathi</h1>
-<h3>AIML Aspiring Engineer | Python Developer | C++ Programmer</h3>
 
 </div>
 
@@ -10,16 +14,13 @@
 ### About Me
 
 🎓 Third-Year Diploma Student in Artificial Intelligence & Machine Learning
-
 Passionate about solving real-world problems using AI.
 
-I enjoy building practical software, Machine Learning applications, and full-stack projects.
+I enjoy building practical software & Machine Learning application.
 
 Currently learning:
 - Advanced Machine Learning
 - Deep Learning
-- Data Structures & Algorithms
-- Java
 - Backend Development
 
 Career Goal: Become an AI/ML Engineer and contribute to impactful software solutions.
