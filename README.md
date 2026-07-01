@@ -150,10 +150,9 @@ Python Programming Intern — KodBud
 
 ### Quote
 
-"The best way to predict the future is to build it."
-
+> *"The best way to predict the future is to build it."* <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5CFA&height=120&section=footer" width="100%"/>
 ---
 
 <div align="center">
-<h3>Thanks for visiting my profile</h3>
+<h3>⭐ Thanks for visiting my profile ⭐</h3>
 </div>
