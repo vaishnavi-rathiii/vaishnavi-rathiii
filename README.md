@@ -2,16 +2,16 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5CFA&height=220&section=header&text=Vaishnavi%20Rathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20C%2B%2B%20Programmer&descAlignY=58&descSize=18" width="100%"/> -->
 
-<img src="assets/Me.jpeg" width="180" alt="Vaishnavi Rathi"/>
+<!-- <img src="assets/Me.jpeg" width="180" alt="Vaishnavi Rathi"/> -->
 
-<h1>Hi, I'm Vaishnavi Rathi 👋</h1>
+<h1>Vaishnavi Rathi</h1>
 <h3>AIML Aspiring Engineer | Python Developer | C++ Programmer</h3>
 
 </div>
 
 ---
 
-# 💫 About Me
+### 💫 About Me
 
 🎓 Third-Year Diploma Student in Artificial Intelligence & Machine Learning
 
@@ -30,15 +30,15 @@
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
 
-### Programming Languages
+#### Programming Languages
 <p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,r"/></p>
 
-### Web Development
+#### Web Development
 <p><img src="https://skillicons.dev/icons?i=html,css"/></p>
 
-### AI / ML
+#### AI / ML
 <p><img src="https://skillicons.dev/icons?i=python,pytorch"/></p>
 
 - Machine Learning · Deep Learning · Neural Networks
@@ -47,19 +47,19 @@
 - Reinforcement Learning · Supervised & Unsupervised Learning
 - Libraries: Scikit-learn · PyTorch
 
-### Data Science
+#### Data Science
 <p><img src="https://skillicons.dev/icons?i=python"/></p>
 
 - NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
 
-### Tools
+#### Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/></p>
 
 - Power BI · Anaconda · Jupyter Lab
 
 ---
 
-# 💼 Experience
+### 💼 Experience
 
 **💻 C++ Developer Intern — CodeAlpha**
 ✔ OOP Concepts ✔ Mini Projects ✔ Debugging ✔ Git & GitHub ✔ Letter of Recommendation
@@ -72,7 +72,7 @@
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
@@ -85,14 +85,14 @@
 
 ---
 
-# 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Rathi-123&show_icons=true&theme=tokyonight"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Rathi-123&theme=tokyonight"/>
 </p>
 
-# 💻 Most Used Language & Libraries
+### 💻 Most Used Language & Libraries
 
 <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Rathi-123&layout=compact&theme=tokyonight"/>
@@ -106,13 +106,13 @@
 NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PyTorch
 </p>
 
-# 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Rathi-123&theme=tokyo-night"/>
 </p>
 
-# 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi-Rathi-123&theme=tokyonight&row=1&column=6"/>
@@ -120,7 +120,7 @@ NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PyTorch
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/vaishnavi-rathi-/" target="_blank">
@@ -133,7 +133,7 @@ NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PyTorch
 
 ---
 
-# 👀 Profile Views
+### 👀 Profile Views
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Rathi-123&label=Profile%20Views&color=blueviolet&style=flat"/>
@@ -141,7 +141,7 @@ NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PyTorch
 
 ---
 
-# 💙 Quote
+### 💙 Quote
 
 > *"The best way to predict the future is to build it."*
 
