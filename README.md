@@ -106,13 +106,13 @@ NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PyTorch
 ### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Rathi-123&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-rathiii&theme=tokyo-night"/>
 </p>
 
 #### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi-Rathi-123&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-rathiii&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -133,7 +133,7 @@ NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PyTorch
 ### 👀 Profile Views
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Vaishnavi-Rathi-123&label=Profile%20Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=vaishnavi-rathiii&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
 ---
