@@ -4,7 +4,7 @@
 
 <!-- <img src="assets/Me.jpeg" width="180" alt="Vaishnavi Rathi"/> -->
 
-<h1>Vaishnavi Rathi</h1>
+<h1 style="font-size:90px;">Vaishnavi Rathi</h1>
 <h3>AIML Aspiring Engineer | Python Developer | C++ Programmer</h3>
 
 </div>
@@ -36,10 +36,10 @@
 <p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,r"/></p>
 
 #### Web Development
-<p><img src="https://skillicons.dev/icons?i=html,css"/></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,flask"/></p>
 
 #### AI / ML
-<p><img src="https://skillicons.dev/icons?i=python,pytorch"/></p>
+<p><img src="https://skillicons.dev/icons?i=python,pytorch,sklearn"/></p>
 
 - Machine Learning · Deep Learning · Neural Networks
 - Generative AI · Large Language Models (LLMs)
@@ -48,9 +48,9 @@
 - Libraries: Scikit-learn · PyTorch
 
 #### Data Science
-<p><img src="https://skillicons.dev/icons?i=python"/></p>
-
-- NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
+<p>
+NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
+</p>
 
 #### Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/></p>
@@ -79,9 +79,6 @@
 | 🤖 AI Personal Assistant | Built using Gemma LLM, Flask & Hugging Face API |
 | 🏦 CreditWise | Loan Approval Prediction using Machine Learning |
 | 🛒 SmartCart | Customer Segmentation using Clustering |
-| 🍽️ Golden Fork | Responsive Restaurant Website |
-| 🛍️ Amazon Clone | Responsive Frontend Clone |
-| 🎬 Netflix Clone | Responsive UI Clone |
 
 ---
 
@@ -126,7 +123,7 @@ NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PyTorch
 <a href="https://www.linkedin.com/in/vaishnavi-rathi-/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rathivaishnavi949@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
